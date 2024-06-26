@@ -6,7 +6,7 @@
 [![Bower](https://img.shields.io/bower/v/pubnub.svg)]()
 [![Known Vulnerabilities](https://snyk.io/test/npm/pubnub/badge.svg)](https://snyk.io/test/npm/pubnub)
 
-This is the official PubNub JavaScript SDK repository.
+......This is the official PubNub JavaScript SDK repository.
 
 PubNub takes care of the infrastructure and APIs needed for the realtime communication layer of your application. Work on your app's logic and let PubNub handle sending and receiving data across the world in less than 100ms.
 
